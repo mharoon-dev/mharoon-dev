@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me 
-     Email: haroon.aghani@gmail.com
-     Portfolio: https://mharoon-dev.vercel.app/
-     Linkedin: https://www.linkedin.com/in/muhammad-haroon-73ba8227b/  
+- 📧 Email: haroon.aghani@gmail.com
+- 🌐 Portfolio: https://mharoon-dev.vercel.app/
+- 🌐 Linkedin: https://www.linkedin.com/in/muhammad-haroon-73ba8227b/  
 - 🚀 Expertise in: MERN Stack Development 
 
 <!---
