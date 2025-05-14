@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me 👇 
 - 📧 Email: haroon.aghani@gmail.com
-- 🌐 Portfolio: https://mharoon-dev.vercel.app/
+- 🌐 Portfolio: https://www.mharoon.com/
 - 🌐 Linkedin: https://www.linkedin.com/in/muhammad-haroon-73ba8227b/  
 - 🚀 Expertise in: MERN Stack Development 
 
