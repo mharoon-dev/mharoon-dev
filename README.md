@@ -5,7 +5,7 @@
 - 📧 Email: haroon.aghani@gmail.com
 - 🌐 Portfolio: https://www.mharoon.com/
 - 🌐 Linkedin: https://www.linkedin.com/in/muhammad-haroon-73ba8227b/  
-- 🚀 Expertise in: MERN Stack Development 
+- 🚀 Expertise in: Full Stack Development 
 
 <!---
 mharoon-dev/mharoon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
